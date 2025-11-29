@@ -1,0 +1,8 @@
+Physical model:
+  1. The idea is to have a PCB board control LED that represent Electric Vehicles (Electric Vehicles - Buses and personal cars), the different colours represent statutes of the EV's
+  2. It will be a vertical board with cut outs for led and screens, the goal is to make it interectable with the user and visualise for the viewer it very well
+Simulation/coding:
+  1. Distribution algorithm?
+Main goals:
+  1. Make a mathematical algorithm that makes EV charging much more efficient
+  2. Motto: Make EV charging cheaper and more sustainable 
